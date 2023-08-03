@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u --reference-hello school
+chgrp school hello
