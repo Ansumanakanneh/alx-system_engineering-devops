@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod og+g hellp
+chmod ugo+x hellp
